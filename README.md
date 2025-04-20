@@ -1,4 +1,4 @@
-# DEEPROAD SAFETY
+# TRAFFIC SHIELD
 
 This project aims to build a mobile application that predicts the likelihood of traffic accidents in real time. By leveraging machine learning and historical data, the app can assist drivers in making safer travel decisions and avoiding accident-prone areas.
 
